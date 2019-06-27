@@ -1,1 +1,10 @@
 /*Aqui van los estilos par ala ficha*/
+body {
+	background: #000;
+	padding: 0;
+}
+.ctn{
+	background: #fff;
+	width: 400px;
+	height: 900px;
+}
