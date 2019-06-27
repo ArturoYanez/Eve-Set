@@ -5,7 +5,7 @@
 Este es un repositorio para guardar los avances del set de _Eve Nasod_ en el
 [foro](https://www.narutolegendsrol.foroactivo.com/).
 
-![Eve Kawaii](https://i.pinimg.com/originals/60/37/b3/6037ba72e6e970aab24ad69f9910dba.jpg)
+![Eve Kawaii](https://i.pinimg.com/originals/60/37/b3/6037b3a72e6e970aab24ad69f9910dba.jpg)
 
 ## Pendientes
 
